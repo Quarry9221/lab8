@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6af39097_002Dfce5_002D429a_002D84b7_002D75ac3a41aade/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="BaseRepositoryForTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A7C2A03-FA88-46D1-9E2E-DACAF389D370::net5.0::DAL.Tests.BaseRepositoryForTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.Ctor_InputNull_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.GetStreets_UserIsAdmin_ThrowMethodException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.GetStreets_StreetFromDAL_CorrectMappingToStreetDTO&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

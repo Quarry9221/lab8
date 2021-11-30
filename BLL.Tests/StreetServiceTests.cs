@@ -18,11 +18,8 @@ namespace Bll.Tests
         [Fact]
         public void Ctor_InputNull_ThrowArgumentNullException()
         {
-            // Arrange
+            
             IUnitOfWork nullUnitOfWork = null;
-
-            // Act
-            // Assert
             Assert.Throws<ArgumentNullException>(() => new StreetService(nullUnitOfWork));
         }
 

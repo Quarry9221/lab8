@@ -5,5 +5,7 @@
     &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.Ctor_InputNull_ThrowArgumentNullException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.GetStreets_UserIsAdmin_ThrowMethodException&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::2036C2FD-DAE6-44EA-BCC9-3B43F7810E17::net5.0::Bll.Tests.StreetServiceTests.GetStreets_StreetFromDAL_CorrectMappingToStreetDTO&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A7C2A03-FA88-46D1-9E2E-DACAF389D370::net5.0::DAL.Tests.TestForPattern.get_singletmon&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A7C2A03-FA88-46D1-9E2E-DACAF389D370::net5.0::DAL.Tests.TestForPattern.get_singleton&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

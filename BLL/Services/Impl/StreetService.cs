@@ -13,16 +13,18 @@ namespace BLL.Services.Impl
     public class StreetService : IStreetService
     {
         private readonly IUnitOfWork _database;
-        private int pageSize = 10;
+        private int pageSize = 8;
+        
         public StreetService(IUnitOfWork unitOfWork)
         {
             if (unitOfWork == null)
             {
-                throw new ArgumentException(nameof(unitOfWork));
+                throw new ArgumentNullException(nameof(unitOfWork));
             }
 
             _database = unitOfWork;
         }
+        
 
         public IEnumerable<StreetDTO> GetStreets(int pageNumber)
         {

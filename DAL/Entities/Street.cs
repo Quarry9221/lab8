@@ -7,6 +7,17 @@
         public string Description { get; set; }
 
         public int OSNID { get; set; }
-        public OSN OSN { get; set; }
+
+        public Street Clone()
+        {
+            var street = new Street
+            {
+                Name = Name.Clone() as string,
+                Description = Description.Clone() as string,
+                StreetID = StreetID,
+                OSNID = OSNID
+            };
+            return street;
+        }
     }
 }

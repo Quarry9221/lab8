@@ -19,5 +19,10 @@
             };
             return street;
         }
+
+        public void street1()
+        {
+            
+        }
     }
 }

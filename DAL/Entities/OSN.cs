@@ -21,6 +21,10 @@ namespace DAL.Entities
             }
             return instance;
         }
-        
+
+        public void osn1()
+        {
+            
+        }
     }
 }
